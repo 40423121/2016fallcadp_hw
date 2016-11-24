@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/40423121.atom.xml" rel="self"></link><id>./</id><updated>2016-11-17T12:00:00+08:00</updated><entry><title>40423121 Solvespace 平面四連桿機構模擬</title><link href="./40423121-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-17T12:00:00+08:00</published><updated>2016-11-17T12:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2016-11-17:./40423121-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;Solvespace 平面四連桿機構模擬&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/40423121.atom.xml" rel="self"></link><id>./</id><updated>2016-11-24T12:00:00+08:00</updated><entry><title>40423121 1124作業</title><link href="./40423121-1124zuo-ye.html" rel="alternate"></link><published>2016-11-24T12:00:00+08:00</published><updated>2016-11-24T12:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2016-11-24:./40423121-1124zuo-ye.html</id><summary type="html">&lt;h2&gt;Solvespace&lt;/h2&gt;
+
+&lt;h3&gt;1. Parts (零件繪製)&lt;/h3&gt;
+
+&lt;p&gt;範例檔案: &lt;a href="http://solvespace.com/bracket.pl"&gt;http://solvespace.com/bracket.pl&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;An introductory tutorial is available, in which we draw the same part that is shown in the demo video. &lt;/p&gt;
+
+&lt;p&gt;This covers most of the basic features of SolveSpace, including sketches, constraints, extrusions, and Boolean operations.&lt;/p&gt;
+
+&lt;p&gt;When we first run SolveSpace, we will begin with an empty part. Initially, our view of the part will be oriented onto the XY plane; the label for that plane is displayed at the bottom left of the screen (#XY, in dark grey). The axes are also indicated by the three colored arrows at the bottom left; the X, Y, and Z axes are drawn in red, green, and blue respectively.&lt;/p&gt;
+
+&lt;p&gt;When we hover the mouse over any entity, constraint, or other object in the sketch, that object will appear highlighted in yellow. For example, the XY plane, which is drawn as a dashed square, will appear highlighted when we hover the mouse over it. The YZ and ZX planes initially look like dashed lines, because they are being viewed on edge; but they still appear highlighted in yellow when we hold the mouse over them. It is similarly possible to highlight the X, Y, and Z axes (which are drawn as arrows), or the origin (which like all points is drawn as a green square).&lt;/p&gt;
+
+&lt;h4&gt;Extrude (平行長出或除料)&lt;/h4&gt;
+
+&lt;h4&gt;Lathe (旋轉繞行長出或除料)&lt;/h4&gt;
+
+&lt;h4&gt;Export Triangle Mesh&lt;/h4&gt;
+
+&lt;p&gt;STL 格式&lt;/p&gt;
+
+&lt;p&gt;將零件檔案轉出 STL 格式後 (binary or ASCII format definitions), 進入倉儲後, 利用 &lt;a href="https://help.github.com/articles/3d-file-viewer/"&gt;Github 內建的 stl viewer 功能&lt;/a&gt;展示.&lt;/p&gt;
+
+&lt;p&gt;three.js&lt;/p&gt;
+
+&lt;iframe src="./../w7/1124.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="作業"></category></entry><entry><title>40423121 Solvespace 平面四連桿機構模擬</title><link href="./40423121-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html" rel="alternate"></link><published>2016-11-17T12:00:00+08:00</published><updated>2016-11-17T12:00:00+08:00</updated><author><name>40423121</name></author><id>tag:,2016-11-17:./40423121-solvespace-ping-mian-si-lian-gan-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;Solvespace 平面四連桿機構模擬&lt;/p&gt;
 
 &lt;p&gt;&lt;img src="./../w7/W10.png/" width="800" /&gt;&lt;/p&gt;
 
